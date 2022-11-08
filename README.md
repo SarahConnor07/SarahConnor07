@@ -1,4 +1,4 @@
-- #👋 olá,eu me  chamo @SarahConnor07
+- #👋 olá,eu me  chamo **@SarahConnor07**
 - 👀 eu estou aqui para aprender a linguagem Github
 - 🌱 eu estou aprendendo no momento (html)
 - 💞️ procuro aprender Github
