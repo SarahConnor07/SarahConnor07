@@ -2,7 +2,7 @@
 - 👀 eu estou aqui para aprender a linguagem Github
 - 🌱 eu estou aprendendo no momento (html)
 - 💞️ procuro aprender Github
-- 📫 vocẽ pode entrar em contato comigo pelo meu email
+- 📫 vocẽ pode entrar em contato comigo pelo meu [email](sara.rodrigues.ferreira@escola.pr.gov.br)
 
 <!---
 SarahConnor07/SarahConnor07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
